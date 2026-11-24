@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sources": {
+    "logo.svg": "f3f2c83b865090ebabee7e4ed794e3acc9d78ef675eaace5416b8ae91ea6c70e",
+    "feature.svg": "6ad481a7733607b6079235a8b97a37352b62f6fccd926481053c6d590da52cc9",
+    "feature-en.svg": "efde25fe4bebfc9fd1935a275c36f2d4b89057417e900cee0525dd608c9ee7b3",
+    "cover-portrait.svg": "37d5b42952ad4fe952518d22314721c8eca868c075591b175373b8e5237e05d0",
+    "cover-portrait-en.svg": "994e4f154f097565c14545bef76cb19855ab0ad2f3d16fd1d73170565a5c0aae"
+  },
+  "outputs": {
+    "feature.png": {
+      "source": "feature.svg",
+      "width": 1200,
+      "height": 630,
+      "sha256": "d10a9fbbc5da1d18b48a35e323cf47788d2336c01117dad0db09bf9c4147e436"
+    },
+    "feature-en.png": {
+      "source": "feature-en.svg",
+      "width": 1200,
+      "height": 630,
+      "sha256": "310ff77f3e3e82c572287fb0f69f592c1e964d1f894d585a052f4965155624b1"
+    },
+    "cover-portrait.png": {
+      "source": "cover-portrait.svg",
+      "width": 1600,
+      "height": 2560,
+      "sha256": "371967fbee6755564a3b8f441f63aa7585f56c574d3e4d90c9ca6b7567bf7a15"
+    },
+    "cover-portrait-en.png": {
+      "source": "cover-portrait-en.svg",
+      "width": 1600,
+      "height": 2560,
+      "sha256": "a340df1afa89d3eea0c6434f8c9f7d22c8426f1fdee9061d5416b0b3b6fbdc27"
+    }
+  }
+}

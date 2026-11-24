@@ -1,0 +1,67 @@
+import{_ as i,o as a,c as n,a5 as e}from"./chunks/framework.bIR-4glx.js";const E=JSON.parse('{"title":"Learning State Template","description":"Keep goals, baselines, completed work, error evidence, and the next action in one file so a person or AI can resume responsibly.","frontmatter":{"title":"Learning State Template","description":"Keep goals, baselines, completed work, error evidence, and the next action in one file so a person or AI can resume responsibly.","updated":"2026-10-06T00:00:00.000Z","worksheetDownload":{"url":"/downloads/worksheets/learning-state.en.md","name":"learning-state.en.md"}},"headers":[],"relativePath":"en/templates/learning-state.md","filePath":"en/templates/learning-state.md","lastUpdated":1791244800000}'),t={name:"en/templates/learning-state.md"};function l(p,s,h,k,r,o){return a(),n("div",null,[...s[0]||(s[0]=[e(`<h1 id="learning-state-template" tabindex="-1">Learning State Template <a class="header-anchor" href="#learning-state-template" aria-label="Permalink to &quot;Learning State Template&quot;">​</a></h1><p>Copy this into a private note. It is a cross-session source of truth, not a performance diary. Do not include passwords, government IDs, exact addresses, sensitive health data, or third-party information without permission.</p><h2 id="if-you-only-have-five-minutes-today" tabindex="-1">If you only have five minutes today <a class="header-anchor" href="#if-you-only-have-five-minutes-today" aria-label="Permalink to &quot;If you only have five minutes today&quot;">​</a></h2><p>Do not fill the whole form first. Copy the minimum version below and do the action; expand it into the full state file only when you need to resume across sessions, hand work over, or review a cycle.</p><div class="language-markdown vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;"># Learning State — minimum</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Date: YYYY-MM-DD</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">The real problem I am handling:</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Evidence I already have:</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">The smallest action I can finish today:</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Evidence I will save when it is done:</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">What I will not upload or publish:</span></span></code></pre></div><p>The minimum is complete when a future version of you can understand the problem, current evidence, next action, and boundary. It is not a full plan or a substitute for an independent retest. It is a way to let action happen first.</p><div class="language-markdown vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">markdown</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;"># Learning State</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">State version: v1</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Updated: YYYY-MM-DD</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Owner:</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Primary file location:</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Goal</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Real context:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Current main task:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> 12-week outcome:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> This week&#39;s focus:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Acceptance criteria:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Deadline:</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Constraints and Boundaries</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Weekly time/energy available:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Materials and tools allowed:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Content that must not be uploaded or published:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> AI may assist with:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> A person must confirm:</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Current Level and Baseline</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> I can currently:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Baseline sample:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Latest score/feedback:</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">| Sample | Conditions | Location | Date | What it does not show yet |</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">| --- | --- | --- | --- | --- |</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">| | | | | |</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Completed</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> [</span><span style="--shiki-light:#032F62;--shiki-light-text-decoration:underline;--shiki-dark:#DBEDFF;--shiki-dark-text-decoration:underline;">date</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">] task — output/evidence location — result/next step</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Errors, Risks, and Knowledge Gaps</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">| Error/risk | Evidence | Likely cause/confidence | Next treatment and stop condition |</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">| --- | --- | --- | --- |</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Methods That Worked</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Method — conditions — evidence</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Hypotheses to Test</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Hypothesis — counterexample — next test — deadline</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Latest Handover</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Completed and evidence:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Facts still unconfirmed:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Open decisions:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Cost/rework so far:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> First action when reopening:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> People to notify or consult:</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-light-font-weight:bold;--shiki-dark:#79B8FF;--shiki-dark-font-weight:bold;">## Next Action</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">1.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Smallest next task:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">2.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Expected time:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">3.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Material needed:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">4.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Evidence to save:</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70;">5.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Next review date:</span></span></code></pre></div><h2 id="cross-session-recovery-prompt" tabindex="-1">Cross-session Recovery Prompt <a class="header-anchor" href="#cross-session-recovery-prompt" aria-label="Permalink to &quot;Cross-session Recovery Prompt&quot;">​</a></h2><div class="language-text vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>Below is my learning-state file. In no more than six bullets, restate the state version, goal, current evidence, main errors, boundaries, and next action. Flag conflicts or missing information; do not pretend to remember another chat or invent facts absent from the file. Design one exercise only for the “smallest next task”: let me answer first, then give feedback against the acceptance criteria. Do not provide a complete answer unless I ask. Finish with five paste-ready updates: completed, evidence, errors/risks, handover, next action.</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>[paste Learning State]</span></span></code></pre></div><p>An AI summary is not the source of truth. Resume from the file, saved work, sources, and version number; after a weekly review, update the <a href="./weekly-review">Weekly Review</a>, <a href="./evidence-chain">Evidence Chain</a>, and <a href="./90-day-cycle">90-Day Cycle Map</a> by their separate jobs instead of copying the same record.</p>`,10)])])}const c=i(t,[["render",l]]);export{E as __pageData,c as default};
